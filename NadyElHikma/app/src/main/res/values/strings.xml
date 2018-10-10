@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">نـادي الحكـمة</string>
+    <string name="Start">إبـــــدأ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="more_apps">More Apps</string>
+    <string name="email">Send Email</string>
+    <string name="facebook">Facebook</string>
+</resources>

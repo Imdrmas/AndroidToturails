@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:paddingRight="20dp"
+    android:paddingLeft="20dp"
+    tools:context="com.drmas.issam.socialmedia.SetupActivity">
+
+    <ImageButton
+        android:background="@drawable/profile"
+        android:onClick="imageButtonClicked"
+        android:id="@+id/setupImageButton"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="70dp"
+        android:contentDescription="@string/todo"
+        android:layout_marginStart="70dp" />
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:background="@drawable/editshape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/displayName"
+        android:hint="@string/enter_username"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_style"
+        android:onClick="doneButtonClicked"
+        android:text="@string/done"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="35dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/edit_profile_or"
+            android:textColor="#000"
+            android:textSize="24sp"
+            android:layout_marginStart="35dp" />
+
+        <TextView
+            android:id="@+id/textFromHere"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:onClick="notNowColicked"
+            android:text="@string/not_now"
+            android:textColor="#4834d4"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/your_name_apear_in_the_home_page"
+        android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/share" android:id="@+id/itemShare" app:showAsAction="ifRoom" />
+    <item android:title="@string/facebook" android:id="@+id/itemFacebook" app:showAsAction="never"/>
+    <item android:title="@string/email" android:id="@+id/itemEmail" app:showAsAction="never"/>
+    <item android:title="@string/more_apps" android:id="@+id/itemMoreApps" app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.verbes.drmas.verbesfranais">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".home_page">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".webhtml" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".conjugation" />
+        <activity android:name=".HighostScoreActivity" />
+        <activity android:name=".exercice_home" />
+        <activity android:name=".deuxgroup" />
+        <activity android:name=".premiergroup" />
+        <activity android:name=".troisgroup" />
+        <activity android:name=".verbe_en_a" />
+        <activity android:name=".verbe_en_b" />
+        <activity android:name=".webhtmlB" />
+        <activity android:name=".participepasse" />
+        <activity android:name=".groupe_verbe" />
+        <activity android:name=".verbe_en_c" />
+        <activity android:name=".webhtmlC" />
+        <activity android:name=".verbe_en_d" />
+        <activity android:name=".webhtmlD" />
+        <activity android:name=".verbe_en_e" />
+        <activity android:name=".webhtmlE" />
+        <activity android:name=".verbe_en_fgh" />
+        <activity android:name=".webhtmlFGH" />
+        <activity android:name=".verbe_en_ijkl" />
+        <activity android:name=".webhtmlIJKL" />
+        <activity android:name=".verbe_en_mnop" />
+        <activity android:name=".webhtmlMNOP" />
+        <activity android:name=".verbe_en_qp" />
+        <activity android:name=".webhtmlQP" />
+        <activity android:name=".verbe_stuvz" />
+        <activity android:name=".webhtmlSTUVZ" />
+        <activity android:name=".Grammar" />
+        <activity android:name=".Score1" />
+        <activity android:name=".Score2" />
+        <activity android:name=".Score3" />
+        <activity android:name=".Score_passe" />
+        <activity android:name=".Score_groupe"></activity>
+    </application>
+
+</manifest>

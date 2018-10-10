@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <VideoView
+        android:id="@+id/video_view"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp" />
+    </FrameLayout>
+
+    <Button
+        android:onClick="playSound"
+        android:id="@+id/button_sound1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sound 1" />
+
+    <Button
+        android:onClick="playSound"
+        android:id="@+id/button_sound2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sound 2" />
+
+    <Button
+        android:onClick="playSound"
+        android:id="@+id/button_sound3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sound 3" />
+
+    <Button
+        android:onClick="play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="play" />
+    <Button
+        android:onClick="pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pause" />
+    <Button
+        android:onClick="stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="stop" />
+
+
+
+</LinearLayout>

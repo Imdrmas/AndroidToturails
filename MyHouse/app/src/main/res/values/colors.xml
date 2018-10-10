@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00a8ff</color>
+    <color name="colorPrimaryDark">#0097e6</color>
+    <color name="colorAccent">#e84118</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#ecf0f1</color>
+    <color name="colorGray">#747d8c</color>
+    <color name="colorBtnGray">#747474</color>
+    <color name="colorBackBtnWhite">#fAfAfA</color>
+    <color name="colorTabLight">#f9e8b2</color>
+</resources>

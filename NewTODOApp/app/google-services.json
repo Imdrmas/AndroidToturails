@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979768426441",
+    "firebase_url": "https://newtodoapp-72172.firebaseio.com",
+    "project_id": "newtodoapp-72172",
+    "storage_bucket": "newtodoapp-72172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979768426441:android:a89e4c6c61c8d6c1",
+        "android_client_info": {
+          "package_name": "com.drmas.issam.newtodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979768426441-pc0t57rth8in93579t5d0jj1aaq3be1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drmas.issam.newtodoapp",
+            "certificate_hash": "536e9fb53039c6b5947793e0e3dfe74e36d08129"
+          }
+        },
+        {
+          "client_id": "979768426441-cj18ss817vbvssj9daa1pchju2qqhnu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgxaE0Ue7MgB-ahaZ-12lVS4au1QKPqpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979768426441-cj18ss817vbvssj9daa1pchju2qqhnu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

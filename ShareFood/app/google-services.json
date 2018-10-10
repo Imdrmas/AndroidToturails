@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664303426768",
+    "firebase_url": "https://sharefood1-bb8db.firebaseio.com",
+    "project_id": "sharefood1-bb8db",
+    "storage_bucket": "sharefood1-bb8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664303426768:android:08c22b33afcbfc4b",
+        "android_client_info": {
+          "package_name": "com.drmas.issam.sharefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664303426768-o62q2m33p457965peciuinrds5e2g1pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drmas.issam.sharefood",
+            "certificate_hash": "536e9fb53039c6b5947793e0e3dfe74e36d08129"
+          }
+        },
+        {
+          "client_id": "664303426768-dgt8m0mc2ial5g4079p1qjtaebhtfnje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVKrwvYQ0uF8oPFpeUz8XZGN0UfjQnGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664303426768-dgt8m0mc2ial5g4079p1qjtaebhtfnje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

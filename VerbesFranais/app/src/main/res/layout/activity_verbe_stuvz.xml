@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.verbes.drmas.verbesfranais.verbe_stuvz">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ListView
+                android:id="@+id/ListView"
+                android:layout_width="match_parent"
+                android:layout_height="520dp"
+                android:layout_marginTop="-5dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_linear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:paddingTop="6dp"
+            tools:layout_editor_absoluteY="486dp">
+
+            <ImageView
+                android:id="@+id/img_email"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/send_email"
+                android:onClick="img_mail"
+                app:srcCompat="@drawable/emails" />
+
+            <ImageView
+                android:id="@+id/img_share"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/btn_share"
+                android:onClick="img_share"
+                app:srcCompat="@drawable/share"
+                tools:srcCompat="@drawable/share" />
+
+            <ImageView
+                android:id="@+id/img_close"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/close"
+                android:onClick="img_close"
+                app:srcCompat="@drawable/delete" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

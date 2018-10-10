@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Share Food</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="textview">TextView</string>
+    <string name="photo_blog">Share Food</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="need_a_new_account">Need a new account</string>
+    <string name="login_to_account">Login to account</string>
+    <string name="search">Seach</string>
+    <string name="seetings">Seetings</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="cofirm_password">Cofirm Password</string>
+    <string name="create_a_new_account">Create a new Account</string>
+    <string name="image_setup">Image Setup</string>
+    <string name="update">Update</string>
+    <string name="enter_name">Enter name</string>
+    <string name="save_account_settings">Save account Settings</string>
+    <string name="imgNewPost">NewPostImg</string>
+    <string name="post_add">Post add</string>
+    <string name="todo">TODO</string>
+    <string name="add_description">Add Description</string>
+    <string name="add_new_post">Add New Post</string>
+    <string name="name_post">Name Post</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blog_post_date">Blog Post Date</string>
+    <string name="username">Username</string>
+    <string name="img">image Post</string>
+    <string name="descrption">Descrption Descrption Descrption Descrption Descrption Descrption</string>
+    <string name="home">Home</string>
+    <string name="notification">TODO</string>
+    <string name="account">Account</string>
+    <string name="notification_page">Notification page</string>
+</resources>

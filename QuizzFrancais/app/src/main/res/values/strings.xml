@@ -1,0 +1,67 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name"> Quizz Général </string>
+    <string name="image_main"> Image_main </string>
+    <string name="religion"> Religions </string>
+    <string name="quizz_religion"> Quizz: Religions </string>
+    <string name="histoire"> Histoire </string>
+    <string name="quizz_histoire"> Quizz: Histoire </string>
+    <string name="historique_view"> Historique </string>
+    <string name="capitaux"> Capitals </string>
+    <string name="quizz_capitaux"> Quizz: Capitals </string>
+    <string name="géographie"> Géographie </string>
+    <string name="quizz_géographie"> Quizz: Géographie </string>
+    <string name="sciences"> Sciences </string>
+    <string name="quizz_sciences"> Quizz: Sciences </string>
+    <string name="plus"> Plus </string>
+    <string name="question"> Question </string>
+    <string name="btn_four">Btn Four</string>
+    <string name="btn_tree">Btn Tree</string>
+    <string name="btn_two">Btn Two</string>
+    <string name="btn_one">Btn One</string>
+    <string name="score"> Score </string>
+    <string name="height_score"> Top Score </string>
+    <string name="start"> Commencer </string>
+    <string name="annuler"> Annuler </string>
+    <string name="wrong">0</string>
+    <string name="temps"> Temps </string>
+    <string name="correct">0</string>
+    <string name="counter">15</string>
+    <string name="your_result_is"> Votre résultat: </string>
+    <string name="essayer"> Continuer </string>
+
+    <string name="rate_me"> Rate Me </string>
+    <string name="no_answer"> Pas de réponse </string>
+
+    <string name="general"> Général </string>
+    <string name="quizz_general"> Quizz: Général </string>
+    <string name="television"> Télévision </string>
+    <string name="quizz_télévision"> Quizz: Télévision </string>
+    <string name="animaux"> Animaux </string>
+    <string name="quizz_animaux"> Quizz: Animaux </string>
+    <string name="politique"> Politique </string>
+    <string name="quizz_politique"> Quizz: Politique </string>
+    <string name="culturel"> Culture </string>
+    <string name="quizz_culturel"> Quizz: Culture </string>
+    <string name="sport"> Sport </string>
+    <string name="quizz_sport"> Quizz: Sport </string>
+    <string name="arts"> Arts </string>
+    <string name="quizz_art"> Quizz: Arts </string>
+    <string name="_100"> 100 </string>
+    <string name="answer"> Répondre </string>
+    <string name="commencer"> Commencer </string>
+    <string name="tes_vous_pr_ts"> Êtes-vous prêts ! </string>
+
+    <string name="pas_de_répondre"> Pas de répondre </string>
+    <string name="vrai"> Vrai </string>
+    <string name="faux"> Faux </string>
+    <string name="les_réponses"> Les réponses </string>
+    <string name="vous_avez_repondu"> Vous avez répondu à </string>
+    <string name="aux_qestions"> Toutes les questions </string>
+
+    <string name="vous_avez_fait_trés_bon_travail"> Bravo ! Très bon travail </string>
+    <string name="accueil"> Accueil </string>
+    <string name="partager"> Partager </string>
+    <string name="new_score"> New score </string>
+    <string name="voulez_vous_annuler"> Voulez-vous annuler ! </string>
+
+</resources>

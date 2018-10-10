@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">الشا عر: عصام درماس</string>
+    <string name="app_Name">الشا عر: عصام درماس</string>
+    <string name="btnpoems">القصــائد</string>
+    <string name="btnfacebook">Facebook</string>
+    <string name="btnshare">Share</string>
+    <string name="btn_sendmail"> Message</string>
+    <string name="btn_close"> Message</string>
+    <string name="textview"> Message</string>
+
+    <string-array name="index">
+        <item> رحلة أمل</item>
+        <item> تغمرني شحوب الزمان </item>
+        <item> عشان أشوفك </item>
+        <item> إسراء يا ملأكي </item>
+        <item> سنين محفوفة بالضياع</item>
+        <item> الرحيل والمنايا </item>
+        <item>  عينيك وطني </item>
+        <item>  متى تحبني يالامير </item>
+        <item>  انتظار </item>
+        <item> أميـرتـي يا لؤلـؤه الهـوى</item>
+        <item> محتار معـاك يا قلبـي العنيد</item>
+        <item> امراة من ورد</item>
+        <item> دارت بنا الأيام </item>
+        <item>  بنت الأميرة </item>
+        <item> التجىء اليك يا أيها السما </item>
+        <item> حبـي ليك فى الدواخل </item>
+        <item> ما تهنيت بالحب والحنان </item>
+        <item> جمـــيلة ونبيــــل</item>
+        <item> ذكريات خالـــــدة</item>
+        <item> ذكراك مـــــــلاذ</item>
+        <item>  ذكرة مـــن الامـــس</item>
+        <item>  لو بيدي كنت طاوعت الليال</item>
+        <item>  ضيــعت وراك سنينــي </item>
+        <item> أحــزن لحــزن</item>
+        <item> شمعات الامـل</item>
+        <item> قلبي للهو</item>
+        <item> سيد الغــــرام</item>
+        <item> رحـاب و احـبا</item>
+        <item> تدهشـني كلماتـي</item>
+        <item> بدر البدو</item>
+        <item>  مـــــلا</item>
+        <item> شُعرَاءَ الْأدَب </item>
+        <item>  حرية تعبير</item>
+        <item> الحـزن الالـيم</item>
+        <item> وتـر الكـمان</item>
+        <item>  تجهليني وهل مثلي يجهلو</item>
+        <item>  كلموها يا خلان</item>
+        <item> كوثر</item>
+        <item> ست روحي وهواي</item>
+        <item>  ليلة شتوي</item>
+        <item>  بيلسان</item>
+        <item> جاني فى نصف الليلِ حلما</item>
+        <item>  ودعنا الح</item>
+        <item> كل الأشياء بقت لا تعنين</item>
+        <item>  بنت من صند</item>
+        <item> اجمل غروب </item>
+        <item>  لواعج الده </item>
+        <item> البساتين الناعسة</item>
+        <item> شبحي</item>
+        <item> جمال عينيل </item>
+        <item>  محاسن الصد</item>
+        <item> صابرين يا دنيا</item>
+        <item> سيدتي أسف جداً</item>
+        <item> مع النجمات اسهر</item>
+        <item>  اجمـل تحفـة </item>
+        <item> انا و الليــل</item>
+        <item> بنت العز والمجد</item>
+        <item>  عيونى عليك بتخاف </item>
+        <item>  صـوت غريب </item>
+        <item>  حياتي بين ايديك </item>
+        <item>  صريع الهوى</item>
+        <item>  اه انا من الماسي</item>
+        <item>   غـريبة اللـيلة جـيتي </item>
+        <item>  خواطر انسان  </item>
+        <item>  أية بديعة </item>
+        <item>  القواسي والصعاب </item>
+        <item>  لماذا كنت هنا </item>
+        <item>  ابو حاتم وحنين </item>
+        <item>  حواتا يا محمود ما لينا حدود </item>
+        <item>  الحوت النبيل </item>
+        <item>  شردتنا يا رئيس </item>
+        <item>  حرية تعبير </item>
+        <item>  من اجل العروبة</item>
+        <item>  حب الوطن </item>
+        <item> أهل العروبة </item>
+        <item>  اتركوني اكتب </item>
+        <item>  تباً لهم تبا </item>
+        <item>  حر أنا حر كعصفور </item>
+        <item>  جانا العسكر </item>
+        <item>  رب نافع ضار </item>
+        <item>  كان لي صورتين علي الجدار </item>
+        <item>  مدينة الأشباح والسجم </item>
+        <item>  وطن انحنى </item>
+        <item>  وطني حرمني</item>
+        <item>   باحث عن وطن </item>
+        <item>  وطني المرحاب </item>
+        <item>  عايز أتعلم الانسانية </item>
+        <item>  قلمي حرمني </item>
+        <item>  السودان وطن للجميع </item>
+        <item>  قلبتو الحيـــلة </item>
+        <item>  دموع الطير </item>
+        <item>  وطـن واحـد </item>
+        <item>  التغير </item>
+        <item>  الحــــــاكم والسلطان </item>
+        <item>  عملتا الانقلاب </item>
+        <item>  الوطن العربى ليك الرجوع </item>
+        <item>  ابيض وأسمرا </item>
+        <item>  بلاد بلا وفاء </item>
+        <item>  هنا وهناك </item>
+        <item>  الملك الآدمي </item>
+        <item> جمهورية دكتاتور </item>
+        <item>  الانسان انظلم </item>
+        <item>  أنا وهم </item>
+        <item>  حرب القبائل </item>
+        <item>  الربيع العربي </item>
+        <item>  إنسان بلا عنوان </item>
+        <item>  الثورة المصرية </item>
+        <item>  طفح الكيل </item>
+        <item>  الشعب والسلطة </item>
+        <item>  نحن وهم </item>
+        <item>  اصلي أفريقي</item>
+        <item>  السلطة والقضاء </item>
+        <item>  الحروب وأطفالنا</item>
+        <item>  البائس </item>
+        <item>  انت عربي </item>
+        <item>  أمي الحرية  </item>
+
+
+    </string-array>
+
+</resources>

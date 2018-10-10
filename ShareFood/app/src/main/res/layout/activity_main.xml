@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.drmas.issam.sharefood.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:fontFamily="cursive"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:targetApi="jelly_bean"></android.support.v7.widget.Toolbar>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/addPostBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="64dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginStart="300dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="@color/common_google_signin_btn_text_dark_default"
+        app:elevation="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:rippleColor="#FFF"
+        app:srcCompat="@android:drawable/ic_input_add" />
+
+
+    <LinearLayout
+        android:id="@+id/lyBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBackBtnWhite"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp">
+
+        <ImageButton
+            android:id="@+id/homeAccountIcon"
+            android:layout_width="22dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@color/colorBackBtnWhite"
+            android:contentDescription="@string/string_homenotificationicon"
+            app:srcCompat="@mipmap/ic_home_blue" />
+
+        <ImageButton
+            android:id="@+id/notificationAccountIcon"
+            android:layout_width="22dp"
+            android:layout_height="32dp"
+            android:layout_weight="1"
+            android:background="@color/colorBackBtnWhite"
+            android:contentDescription="@string/notificationIcon"
+            android:onClick="mainNotificationIcon"
+            app:srcCompat="@mipmap/notification_gray" />
+
+        <ImageButton
+            android:layout_width="22dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@color/colorBackBtnWhite"
+            android:contentDescription="@string/accountNotificationIcon"
+            android:onClick="mainAccountIcon"
+            app:srcCompat="@mipmap/account_gray" />
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mainRc"
+        android:layout_width="match_parent"
+        android:layout_height="514dp"
+        android:layout_marginTop="58dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <ProgressBar
+        android:id="@+id/progressMain"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/custom_progressbar"
+        android:indeterminate="true"
+        android:padding="5dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/mainRc"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

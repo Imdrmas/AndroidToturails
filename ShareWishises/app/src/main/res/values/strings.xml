@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Share Wishes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favourite</string>
+
+    <string name="share_wishes">Share Wishes</string>
+    <string name="like">Like</string>
+</resources>

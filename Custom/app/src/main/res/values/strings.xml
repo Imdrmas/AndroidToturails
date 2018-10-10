@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Custom</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="issam">Programar</string>
+    <string name="elina_grofild">Issam Drmas</string>
+    <string name="x">X</string>
+    <string name="posts">Posts</string>
+    <string name="_50">50</string>
+    <string name="cities">Cities</string>
+    <string name="_19">19</string>
+    <string name="followers">Followers</string>
+    <string name="_150">150</string>
+    <string name="todo">TODO</string>
+    <string name="show_pup">Show Pup</string>
+
+    <string name="clients_subscribed_right_now">CLIENTS SUBSCRIBED RIGHT NOW</string>
+    <string name="_36_520">36,520</string>
+    <string name="subscribe">Subscribe</string>
+
+
+    <string name="ideas">Ideas</string>
+    <string name="check_your_bank_activities">Check your bank activities</string>
+    <string name="banking">Banking</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="add">Add</string>
+    <string name="four">Four</string>
+    <string name="links">Links</string>
+    <string name="one">One</string>
+    <string name="back">Back</string>
+    <string name="image">img</string>
+    <string name="_360">360</string>
+    <string name="_1205">1205</string>
+    <string name="_125">125</string>
+    <string name="following">Following</string>
+    <string name="photos">Photos</string>
+    <string name="show_all_comments">Show all comments</string>
+    <string name="add_to_group">Add to group</string>
+    <string name="_266_225_225">+266 225 225</string>
+    <string name="img_mail">mail</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="wiliam_gmail_com">Wiliam@gmail.com</string>
+    <string name="todo3">TODO</string>
+    <string name="follow_meS">Follow Me</string>
+    <string name="profile">Profile User</string>
+
+    <string name="_5_45">5:45</string>
+    <string name="just_gona_stand_there_and">Just gona stand there and ...</string>
+    <string name="rihanna_love_the_way_lie">Rihanna Love the way lie</string>
+    <string name="img">TODO</string>
+
+
+</resources>

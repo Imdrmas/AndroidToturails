@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.drmas.issam.mybirthdate.MyCall">
+
+
+    <EditText
+        android:id="@+id/txtNum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="phone"
+        android:text="@string/_0758350768"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/no_name_select"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnCall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="24sp"
+        android:text="@string/call"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnOpenSms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_message"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/txtSendNow"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="@string/write_your_message_here"
+        android:inputType="textMultiLine"
+        android:padding="10sp"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnSendNow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_sms_now"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/btnOpenCont"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_contacts"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnGetCont"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_contacts"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+</LinearLayout>

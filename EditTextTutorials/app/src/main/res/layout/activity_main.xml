@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:onClick="editTextInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EditText Input Activity" />
+
+    <Button
+        android:onClick="floatingLabelEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Floating Label EditText Activity" />
+
+    <Button
+        android:onClick="hideKeyboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hide Keyboard Activity" />
+
+    <Button
+        android:onClick="maskEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mask EditText Activity" />
+
+    <Button
+        android:onClick="AutoCompleteTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AutoCompleteTextView Activity" />
+
+    <Button
+        android:onClick="MultiAutoCompleteTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MultiAutoCompleteTextView Activity" />
+
+    <Button
+        android:onClick="CustomAutoCompleteTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Custom AutoCompleteTextView Activity" />
+
+</LinearLayout>

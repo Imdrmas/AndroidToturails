@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.drmas.issam.sharefood.AccountActivity">
+
+
+    <LinearLayout
+        android:id="@+id/lyBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBackBtnWhite"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <ImageButton
+            android:onClick="homeAccountIcon"
+            android:background="@color/colorBackBtnWhite"
+            android:id="@+id/homeAccountIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/string_homenotificationicon"
+            app:srcCompat="@mipmap/home_gray" />
+
+        <ImageButton
+            android:onClick="notificationAccountIcon"
+            android:background="@color/colorBackBtnWhite"
+            android:id="@+id/notificationAccountIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/notificationIcon"
+            app:srcCompat="@mipmap/notification_gray" />
+
+        <ImageButton
+            android:background="@color/colorBackBtnWhite"
+            android:id="@+id/accountIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="@string/accountNotificationIcon"
+            app:srcCompat="@mipmap/account_blue" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

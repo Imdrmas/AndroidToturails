@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My House</string>
+    <string name="login_to_account">Login to account</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="register">Register</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="account">Account</string>
+    <string name="create_a_new">Create a new</string>
+    <string name="reset">Reset</string>
+    <string name="forget_password">Forget password</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="reset_password">Reset password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification">Notification</string>
+    <string name="all_users">All users</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="home_page">Home page</string>
+
+    <string name="bro1">الأخ هو السلاح الذي نواجه به صعوبات الحياة، وهو السند ومكسبنا في هذه الدنيا، هو نور الظلام وعدة بالبلاء وعون على الأعداء، والأخ هو الصديق، ونسيم الروح</string>
+    <string name="bro2">ليس هناك أجمل من وجود الأخوة في حياتنا، فهم السند ومصدر قوّتنا، هم نعمة من الله نلجأ؛ حيث نلجأ إليهم وقت الضيق والضعف، نجدهم يفرحون عند فرحنا وسعادتنا، ومن يحفّزوننا على النجاح ويقفون معنا وقت الفشل، لهذا مهما كتبنا لنعبر لهم عن مكانتهم لن نوفيهم حقّهم.
+</string>
+    <string name="bro3">ليس هناك أجمل من وجود أخ في حياتك، تعتمد عليه بشتى الأمور، تشكو له همومك وتجده أوّل من يفرح لفرحك، فالأُخوة هم نعمة من الله منَّ بهم علينا نظراً لأهميّتهم ومكانتهم، فهم سندنا وقوتنا في الدنيا، هم مصدرعزتنا وفخرنا، فمهما عبّرنا عمّا بداخلنا تبقى الكلمات قليلة</string>
+    <string name="bro4">الأخ هو رفيق الدرب هو روح الحياة، والحياة من غير أخ لا طعم لها ولا لون، لأن الأخ يعطيها أمل وتفاؤل، والأخوة جميلون دائماً مع بعضهم في كل المواقف والأمور فالأخ هو السند الوحيد لنا عند حاجتنا.</string>
+    <string name="bro5">الإخوة روح واحدة قد تجمعم رابطة الدم أو الأيام والمواقف الجميلة، وتجعل هذه العلاقة على مستوىً راقٍ من المودّة والتواصل</string>
+    <string name="bro6">الأخ هو الإنسان الأقرب إلى أخيه وهو الشخص الوحيد الذي يسارع في حمل هم أخيه دون مصلحةٍ، ويجتهد كثيراً في سبيل مساعدته ومد يد العون له في الأوقات الصعبة، كما يعتبر الشخص الوحيد الذي يشارك أخوته أتراحهم وأفراحهم، ويعد الصديق والسند والعزوة والأب الثاني الذي نثق به ثقةً عمياء، وهو الشخص الذي تربطنا به جميع الذكريات الجميلة والحزينة التي عايشناها معاً منذ الطفولة إلى مرحلة الشباب والكهولة، فرابطة الأخوة نعمة من نعم الله تعالى التي يجب أن نحافظ عليها</string>
+    <string name="my_dream_home">My Dream House</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="back">Back</string>
+    <string name="new_add">اضافات جديدة</string>
+    <string name="add">اضف</string>
+    <string name="add_new_money">اضف مدخرات جديدة</string>
+    <string name="add_new_note">اضف ملاحظات جديدة</string>
+    <string name="add_new_spend">اضف مصروفات جديدة</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="the_note">الملاحظات</string>
+    <string name="the_spend">المنصرفات</string>
+    <string name="the_money">المدخرات</string>
+    <string name="welcomes">Welcome To</string>
+    <string name="enter_number">ادخل رقم</string>
+    <string name="how_much">ادخل كم بالعربي</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="cant_not_edit"> عــــزراً ! ـ لا يمــكنك التعديــــل او الحــــــزف</string>
+    <string name="enter_title">ادخل عنوان</string>
+    <string name="my_profile">My Profile</string>
+</resources>

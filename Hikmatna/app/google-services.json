@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88668433261",
+    "firebase_url": "https://hikmatna-c8d34.firebaseio.com",
+    "project_id": "hikmatna-c8d34",
+    "storage_bucket": "hikmatna-c8d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88668433261:android:cff9e1fe500fa90f",
+        "android_client_info": {
+          "package_name": "com.issam.drmas.hikmatna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88668433261-lr05knsj79jffvdfm6qeg14klrecu40r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issam.drmas.hikmatna",
+            "certificate_hash": "536e9fb53039c6b5947793e0e3dfe74e36d08129"
+          }
+        },
+        {
+          "client_id": "88668433261-9vkuuvlobh68or48k0n47h772sp504gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxUH4193wr8vGtW2GF1thcsLxnuF2E9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88668433261-9vkuuvlobh68or48k0n47h772sp504gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

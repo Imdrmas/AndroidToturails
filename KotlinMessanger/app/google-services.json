@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "68010459603",
+    "firebase_url": "https://kotlinmessanger-770f4.firebaseio.com",
+    "project_id": "kotlinmessanger-770f4",
+    "storage_bucket": "kotlinmessanger-770f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68010459603:android:0a82fbfa2bd80ad1",
+        "android_client_info": {
+          "package_name": "com.issam.drmas.kotlinmessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68010459603-0d8kqbgs44qc0bqr32l9hs7js31ekrfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issam.drmas.kotlinmessanger",
+            "certificate_hash": "536e9fb53039c6b5947793e0e3dfe74e36d08129"
+          }
+        },
+        {
+          "client_id": "68010459603-2tdmg4e162c7bk9mcol6k2si3t746hob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZvB7_-ZSwbxp7h4l0Aog8D7Z5AqbVtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68010459603-2tdmg4e162c7bk9mcol6k2si3t746hob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/share" android:icon="@drawable/ic_search" android:id="@+id/searchClicked" app:showAsAction="always" />
+    <item android:title="@string/top_score" android:id="@+id/itemTopScore" app:showAsAction="never"/>
+    <item android:title="@string/share" android:id="@+id/itemShare" app:showAsAction="never" />
+    <item android:title="@string/facebook" android:id="@+id/itemFacebook" app:showAsAction="never"/>
+    <item android:title="@string/more_apps" android:id="@+id/itemMoreApps" app:showAsAction="never"/>
+
+</menu>

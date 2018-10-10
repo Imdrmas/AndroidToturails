@@ -1,0 +1,2036 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Verbes Français</string>
+    <string name="TextView">TextView</string>
+    <string name="home">Home</string>
+    <string name="Toast">Todo</string>
+    <string name="close">Close</string>
+    <string name="send_email">Send Email</string>
+    <string name="button_conj">Conjugation</string>
+    <string name="button_gram">Grammar</string>
+    <string name="button_exercise">Exercises</string>
+    <string name="btn_facebook">Facebook</string>
+    <string name="btn_mail">Message</string>
+    <string name="btn_share">Share</string>
+
+
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="score">Score</string>
+
+    <string name="textscore">New Score </string>
+    <string name="hightscore">Hightest Score: </string>
+    <string name="tryagain">Try again </string>
+
+    <string name="QuestiontoAnswer">Question to Answer</string>
+    <string name="Email">Email</string>
+    <string name="Share">Share</string>
+    <string name="Close">Close</string>
+
+    <string name="choice_exercice">Choice Exercice</string>
+    <string name="etre_avoir">être et avoir</string>
+    <string name="premiergroup">premier groupe</string>
+    <string name="deuxgroup">deuxième groupe</string>
+    <string name="troisgroup">troisième groupe</string>
+    <string name="participepasse">participe passé</string>
+    <string name="groupe_verbe">groupe des verbes</string>
+    <string name="trouver_verbe">trouvez le groupe</string>
+
+    <string name="verbea">Verbe en A</string>
+    <string name="verbeb">Verbe en B</string>
+    <string name="verbec">Verbe en C</string>
+    <string name="verbed">Verbe en D</string>
+    <string name="verbee">Verbe en E</string>
+    <string name="verbefgh">Verbe en F, G, H</string>
+    <string name="verbeijkl">Verbe en I, J, K, L</string>
+    <string name="verbemnop">Verbe en M, N, O, P</string>
+    <string name="verbeqp">Verbe en Q, R</string>
+    <string name="verbestuvz">Verbe en S, T, U, V, Z</string>
+
+
+    <string-array name="verbe_en_a">
+        <item>abaisser</item>
+        <item>abandonner</item>
+        <item>abasoudir</item>
+        <item>abattre</item>
+        <item>abêtir</item>
+        <item>abhorrer</item>
+        <item>abîmer</item>
+        <item>ablolir</item>
+        <item>abonder</item>
+        <item>abonner</item>
+        <item>aborder</item>
+        <item>aboutir</item>
+        <item>aboyer</item>
+        <item>abréger</item>
+        <item>abreuver</item>
+        <item>abriter</item>
+        <item>abrutir</item>
+        <item>absenter</item>
+        <item>absoudre</item>
+        <item>abstenir</item>
+        <item>abstraire</item>
+        <item>abuser</item>
+        <item>accabler</item>
+        <item>accaparer</item>
+        <item>accéder</item>
+        <item>accélérer</item>
+        <item>accentuer</item>
+        <item>accepter</item>
+        <item>accoler</item>
+        <item>accommoder</item>
+        <item>accompagner</item>
+        <item>accomplir</item>
+        <item>accorder</item>
+        <item>accoucher</item>
+        <item>accourir</item>
+        <item>accrocher</item>
+        <item>accroire</item>
+        <item>accroître</item>
+        <item>accroupir</item>
+        <item>accueillir</item>
+        <item>accumuler</item>
+        <item>accuser</item>
+        <item>acharner</item>
+        <item>acheminer</item>
+        <item>acheter</item>
+        <item>achever</item>
+        <item>aciérer</item>
+        <item>aciseler</item>
+        <item>acquérir</item>
+        <item>acquiescer</item>
+        <item>acquitter</item>
+        <item>acter</item>
+        <item>activer</item>
+        <item>actualiser</item>
+        <item>adapter</item>
+        <item>additionner</item>
+        <item>adhérer</item>
+        <item>adire</item>
+        <item>adjoindre</item>
+        <item>admettre</item>
+        <item>administrer</item>
+        <item>admirer</item>
+        <item>adonner</item>
+        <item>affirmer</item>
+        <item>adore</item>
+        <item>adoucir</item>
+        <item>adresser</item>
+        <item>advenir</item>
+        <item>aérer</item>
+        <item>affaiblir</item>
+        <item>affecter</item>
+        <item>affectionner</item>
+        <item>afférer</item>
+        <item>affermir</item>
+        <item>afficher</item>
+        <item>affiner</item>
+        <item>affirmer</item>
+        <item>affliger</item>
+        <item>affoler</item>
+        <item>affranchir</item>
+        <item>affronter</item>
+        <item>agacer</item>
+        <item>agenouiller</item>
+        <item>aggraver</item>
+        <item>agir</item>
+        <item>agiter</item>
+        <item>agonir</item>
+        <item>agrafer</item>
+        <item>agrandir</item>
+        <item>agréer</item>
+        <item>agréger</item>
+        <item>agresser</item>
+        <item>agripper</item>
+        <item>aguerrir</item>
+        <item>aider</item>
+        <item>aiguiller</item>
+        <item>aiguiser</item>
+        <item>ailler</item>
+        <item>aimer</item>
+        <item>airer</item>
+        <item>ajouter</item>
+        <item>alerter</item>
+        <item>aliéner</item>
+        <item>aligner</item>
+        <item>alimenter</item>
+        <item>aliter</item>
+        <item>allécher</item>
+        <item>alléger</item>
+        <item>alléguer</item>
+        <item>aller</item>
+        <item>allier</item>
+        <item>allonger</item>
+        <item>allouer</item>
+        <item>allumer</item>
+        <item>alourdir</item>
+        <item>altérer</item>
+        <item>aluner</item>
+        <item>alunir</item>
+        <item>amarrer</item>
+        <item>amasser</item>
+        <item>améliorer </item>
+        <item>aménager </item>
+        <item>amener </item>
+        <item>amenuiser </item>
+        <item>amerrir </item>
+        <item>amoindrir </item>
+        <item>amonceler </item>
+        <item>amorcer </item>
+        <item>amortir </item>
+        <item>amourer </item>
+        <item>amplifier </item>
+        <item>amuïr </item>
+        <item>amuser </item>
+        <item>analyser </item>
+        <item>anéantir </item>
+        <item>animer </item>
+        <item>annihiler </item>
+        <item>annoncer </item>
+        <item>annoter </item>
+        <item>annuler </item>
+        <item>anticiper </item>
+        <item>apaiser </item>
+        <item>apercevoir </item>
+        <item>apeurer </item>
+        <item>apitoyer </item>
+        <item>aplanir </item>
+        <item>aplatir </item>
+        <item>apparaître </item>
+        <item>apparenter </item>
+        <item>apparier </item>
+        <item>apparoir </item>
+        <item>appartenir </item>
+        <item>appauvrir </item>
+        <item>appeler </item>
+        <item>appendre </item>
+        <item>applaudir </item>
+        <item>appliquer </item>
+        <item>apporter </item>
+        <item>apposer </item>
+        <item>apprécier </item>
+        <item>appréhender </item>
+        <item>apprendre </item>
+        <item>apprêter </item>
+        <item>approcher </item>
+        <item>approfondir </item>
+        <item>approprier </item>
+        <item>approuver </item>
+        <item>approvisionner </item>
+        <item>appuyer </item>
+        <item>arborer </item>
+        <item>arguer </item>
+        <item>arracher </item>
+        <item>arranger </item>
+        <item>arrêter </item>
+        <item>arriver </item>
+        <item>arrondir </item>
+        <item>arroser </item>
+        <item>aspirer </item>
+        <item>assagir </item>
+        <item>assaillir </item>
+        <item>assainir </item>
+        <item>assassiner </item>
+        <item>assembler </item>
+        <item>assener </item>
+        <item>asséner </item>
+        <item>asseoir </item>
+        <item>asservir </item>
+        <item>assiéger </item>
+        <item>assimiler </item>
+        <item>assister </item>
+        <item>associer </item>
+        <item>assombrir </item>
+        <item>assomer </item>
+        <item>assortir </item>
+        <item>assoupir </item>
+        <item>assouplir </item>
+        <item>assouvir </item>
+        <item>assujettir </item>
+        <item>assumer </item>
+        <item>assurer </item>
+        <item>astreindre </item>
+        <item>attacher </item>
+        <item>attaquer </item>
+        <item>attarder </item>
+        <item>atteindre </item>
+        <item>atteler </item>
+        <item>attendre </item>
+        <item>attendrir </item>
+        <item>attenter </item>
+        <item>atterrer </item>
+        <item>atterrir </item>
+        <item>attester </item>
+        <item>attirer </item>
+        <item>attiser </item>
+        <item>attraper </item>
+        <item>attribuer </item>
+        <item>augmenter </item>
+        <item>autoriser </item>
+        <item>autosuggestionner </item>
+        <item>avaler </item>
+        <item>avancer </item>
+        <item>aventurer </item>
+        <item>avérer </item>
+        <item>avertir </item>
+        <item>aviser </item>
+        <item>avoir </item>
+        <item>avouer </item>
+        <item>avoyer </item>
+        <item>axer </item>
+    </string-array>
+
+    <string-array name="verbe_en_b">
+        <item>baigner </item>
+        <item>bailler </item>
+        <item>bâiller </item>
+        <item>baisser </item>
+        <item>balader </item>
+        <item>balancer </item>
+        <item>balayer </item>
+        <item>balbutier </item>
+        <item>bander </item>
+        <item>bannir </item>
+        <item>baptiser </item>
+        <item>barrer </item>
+        <item>barrier </item>
+        <item>basculer </item>
+        <item>baser </item>
+        <item>bâter </item>
+        <item>bâtir </item>
+        <item>battre </item>
+        <item>bavarder </item>
+        <item>baver </item>
+        <item>bayer </item>
+        <item>béer </item>
+        <item>bégayer </item>
+        <item>bêler </item>
+        <item>bénéficier </item>
+        <item>bénir </item>
+        <item>bercer </item>
+        <item>besogner </item>
+        <item>bienvenir </item>
+        <item>biner </item>
+        <item>biper </item>
+        <item>biser </item>
+        <item>blaguer </item>
+        <item>blâmer </item>
+        <item>blanchir </item>
+        <item>blêmir </item>
+        <item>blesser </item>
+        <item>bleuir </item>
+        <item>bloquer </item>
+        <item>blottir </item>
+        <item>boire </item>
+        <item>boiser </item>
+        <item>boiter </item>
+        <item>boîter </item>
+        <item>bonder </item>
+        <item>bondir </item>
+        <item>bonifier </item>
+        <item>bosser </item>
+        <item>botter </item>
+        <item>boucher </item>
+        <item>bouder </item>
+        <item>bouffer </item>
+        <item>bouger </item>
+        <item>bouillir </item>
+        <item>bouler </item>
+        <item>bouleverser </item>
+        <item>bourrer </item>
+        <item>bousculer </item>
+        <item>bouter </item>
+        <item>braire </item>
+        <item>bramer </item>
+        <item>brancher </item>
+        <item>brandir </item>
+        <item>branler </item>
+        <item>brayer </item>
+        <item>breveter </item>
+        <item>bricoler </item>
+        <item>briller </item>
+        <item>brimbaler </item>
+        <item>brimbaler </item>
+        <item>briser </item>
+        <item>bronzer </item>
+        <item>brosser </item>
+        <item>brouter </item>
+        <item>broyer </item>
+        <item>bruire </item>
+        <item>brûler </item>
+        <item>brumer </item>
+        <item>brunir </item>
+        <item>budgéter </item>
+        <item>buriner </item>
+    </string-array>
+
+    <string-array name="verbe_en_c">
+        <item>cacher </item>
+        <item>cacheter </item>
+        <item>calculer </item>
+        <item>caler </item>
+        <item>calmer </item>
+        <item>caner </item>
+        <item>capeler </item>
+        <item>caper </item>
+        <item>capter </item>
+        <item>caqueter </item>
+        <item>caractériser </item>
+        <item>caresser </item>
+        <item>carreler </item>
+        <item>caser </item>
+        <item>casser </item>
+        <item>causer </item>
+        <item>caver </item>
+        <item>céder </item>
+        <item>ceindre </item>
+        <item>célébrer </item>
+        <item>celer </item>
+        <item>cerner </item>
+        <item>certifier </item>
+        <item>cesser </item>
+        <item>chahuter </item>
+        <item>chaloir </item>
+        <item>chanceler </item>
+        <item>changer </item>
+        <item>chanter </item>
+        <item>charger </item>
+        <item>charmer </item>
+        <item>charrier </item>
+        <item>chasser </item>
+        <item>châtier </item>
+        <item>chauffer </item>
+        <item>chausser </item>
+        <item>chercher </item>
+        <item>chérir </item>
+        <item>cherrer </item>
+        <item>chevaucher </item>
+        <item>chialer </item>
+        <item>choir </item>
+        <item>choisir </item>
+        <item>choper</item>
+        <item>choquer </item>
+        <item>choyer </item>
+        <item>chuchoter </item>
+        <item>chuter </item>
+        <item>circoncire </item>
+        <item>circoncrire </item>
+        <item>circuler </item>
+        <item>cirer </item>
+        <item>ciseler </item>
+        <item>citer </item>
+        <item>claquer </item>
+        <item>clarifier </item>
+        <item>classer </item>
+        <item>clignoter </item>
+        <item>cliquer </item>
+        <item>cloner </item>
+        <item>clore </item>
+        <item>clôturer </item>
+        <item>clouer </item>
+        <item>cocher </item>
+        <item>côcher </item>
+        <item>cogiter </item>
+        <item>cogner </item>
+        <item>coiffer </item>
+        <item>coincer </item>
+        <item>coïncider </item>
+        <item>collaborer </item>
+        <item>collecter </item>
+        <item>collectionner </item>
+        <item>coller </item>
+        <item>colorer </item>
+        <item>colorier </item>
+        <item>combattre </item>
+        <item>combiner </item>
+        <item>combler </item>
+        <item>commander </item>
+        <item>commencer </item>
+        <item>commenter </item>
+        <item>commercer </item>
+        <item>commettre </item>
+        <item>communiquer </item>
+        <item>comparaître </item>
+        <item>comparer </item>
+        <item>compatir </item>
+        <item>compenser </item>
+        <item>compiler </item>
+        <item>complaire </item>
+        <item>compléter </item>
+        <item>complexifier </item>
+        <item>compliquer </item>
+        <item>comporter </item>
+        <item>composer </item>
+        <item>comprendre </item>
+        <item>compromettre </item>
+        <item>compter </item>
+        <item>concéder </item>
+        <item>concentrer </item>
+        <item>concerner </item>
+        <item>concevoir</item>
+        <item>concillier </item>
+        <item>conclure </item>
+        <item>concourir </item>
+        <item>concurrencer </item>
+        <item>condamner </item>
+        <item>conditionner </item>
+        <item>conduire </item>
+        <item>confectionner </item>
+        <item>conférer </item>
+        <item>confesser </item>
+        <item>confier </item>
+        <item>configuer </item>
+        <item>confire </item>
+        <item>confirmer </item>
+        <item>confondre </item>
+        <item>conformer </item>
+        <item>confronter </item>
+        <item>congeler </item>
+        <item>conjoindre </item>
+        <item>conjuguer </item>
+        <item>conjurer </item>
+        <item>connaîre </item>
+        <item>connecter </item>
+        <item>conquérir</item>
+        <item>consacrer </item>
+        <item>conseiller </item>
+        <item>consentir </item>
+        <item>conserver </item>
+        <item>considérer </item>
+        <item>consister </item>
+        <item>consoler </item>
+        <item>consommer </item>
+        <item>constater </item>
+        <item>constituer </item>
+        <item>construire </item>
+        <item>consulter </item>
+        <item>consumer </item>
+        <item>contacter </item>
+        <item>contempler </item>
+        <item>contenir </item>
+        <item>contenter </item>
+        <item>conter </item>
+        <item>continuer </item>
+        <item>contraindre </item>
+        <item>contrarier </item>
+        <item>contredire </item>
+        <item>contrefaire </item>
+        <item>contrer </item>
+        <item>contrevenir </item>
+        <item>contribuer </item>
+        <item>contrôler </item>
+        <item>convaincre </item>
+        <item>convenir </item>
+        <item>convertir </item>
+        <item>convier </item>
+        <item>convoiter </item>
+        <item>convoquer </item>
+        <item>convoyer </item>
+        <item>coppérer </item>
+        <item>coordonner </item>
+        <item>copier </item>
+        <item>corréler </item>
+        <item>correspondre </item>
+        <item>corriger </item>
+        <item>corroborer</item>
+        <item>corrompre</item>
+        <item>coter </item>
+        <item>cotiser </item>
+        <item>côtoyer </item>
+        <item>coucher </item>
+        <item>coudre </item>
+        <item>couiner </item>
+        <item>couler </item>
+        <item>couper </item>
+        <item>courbaturer </item>
+        <item>courir </item>
+        <item>courre </item>
+        <item>coûter </item>
+        <item>couver </item>
+        <item>couvrir </item>
+        <item>cracher </item>
+        <item>craindre </item>
+        <item>cramer </item>
+        <item>craquer </item>
+        <item>créditer </item>
+        <item>créer </item>
+        <item>creuser </item>
+        <item>crever </item>
+        <item>crier </item>
+        <item>critiquer </item>
+        <item>croire </item>
+        <item>croiser </item>
+        <item>croître </item>
+        <item>croquer </item>
+        <item>crosser </item>
+        <item>crotter </item>
+        <item>croupir </item>
+        <item>cueillir</item>
+        <item>cuire </item>
+        <item>cuisiner </item>
+        <item>cultiver </item>
+        <item>cumuler </item>
+        <item>curer </item>
+    </string-array>
+
+    <string-array name="verbe_en_d">
+        <item>daigner </item>
+        <item>daller </item>
+        <item>damer </item>
+        <item>damner </item>
+        <item>danser </item>
+        <item>dater </item>
+        <item>déballer </item>
+        <item>debarquer </item>
+        <item>débarrasser </item>
+        <item>débattre </item>
+        <item>débiter </item>
+        <item>déblatérer </item>
+        <item>déblayer </item>
+        <item>débloquer </item>
+        <item>déborder </item>
+        <item>déboucher </item>
+        <item>débouillir </item>
+        <item>débrouiller </item>
+        <item>débuter </item>
+        <item>décaler </item>
+        <item>décéder </item>
+        <item>déeceler </item>
+        <item>décevoir </item>
+        <item>décharger </item>
+        <item>déchiqueter </item>
+        <item>déchirer </item>
+        <item>déchoir </item>
+        <item>décider </item>
+        <item>déclarer </item>
+        <item>déclencher </item>
+        <item>décliner </item>
+        <item>décoller</item>
+        <item>décommettre </item>
+        <item>déconner </item>
+        <item>décorer </item>
+        <item>découdre </item>
+        <item>découper </item>
+        <item>décourager </item>
+        <item>découvrir </item>
+        <item>décrier </item>
+        <item>décrire </item>
+        <item>décrocher </item>
+        <item>décroître </item>
+        <item>dédicacer </item>
+        <item>dédier </item>
+        <item>dédire </item>
+        <item>déduire </item>
+        <item>défaillir </item>
+        <item>défaire </item>
+        <item>défendre </item>
+        <item>défier </item>
+        <item>défiler </item>
+        <item>définir </item>
+        <item>défoncer </item>
+        <item>défrayer </item>
+        <item>dégager </item>
+        <item>dégeler </item>
+        <item>dégénérer </item>
+        <item>déglutir </item>
+        <item>dégourdir </item>
+        <item>dégoûter </item>
+        <item>déguerpir </item>
+        <item>déguster </item>
+        <item>déjeuner </item>
+        <item>délayer </item>
+        <item>déléguer </item>
+        <item>délier </item>
+        <item>délivrer </item>
+        <item>demander </item>
+        <item>démanteler </item>
+        <item>démarrer </item>
+        <item>déménager </item>
+        <item>démener </item>
+        <item>démentir </item>
+        <item>démettre </item>
+        <item>demeurer </item>
+        <item>démissionner </item>
+        <item>démolir </item>
+        <item>démontrer </item>
+        <item>démordre </item>
+        <item>démunir </item>
+        <item>dénier </item>
+        <item>dénigrer </item>
+        <item>dénoncer </item>
+        <item>dénuer </item>
+        <item>dépanner </item>
+        <item>départir </item>
+        <item>dépasser </item>
+        <item>dépecer </item>
+        <item>dépêcher </item>
+        <item>dépeindre </item>
+        <item>dépendre </item>
+        <item>dépenser </item>
+        <item>dépérir </item>
+        <item>déplacer </item>
+        <item>déplaire </item>
+        <item>déplier </item>
+        <item>déployer </item>
+        <item>déposer </item>
+        <item>déprimer </item>
+        <item>déranger </item>
+        <item>déraper </item>
+        <item>déroger </item>
+        <item>dérouler </item>
+        <item>désapprendre </item>
+        <item>descende </item>
+        <item>désespérer </item>
+        <item>déshabiller </item>
+        <item>désigner </item>
+        <item>désirer </item>
+        <item>désister </item>
+        <item>désobéir </item>
+        <item>désler </item>
+        <item>dessaisir </item>
+        <item>desservir </item>
+        <item>dessiner </item>
+        <item>destiner </item>
+        <item>détacher </item>
+        <item>détailler </item>
+        <item>détaler </item>
+        <item>détecter </item>
+        <item>déteindre </item>
+        <item>détendre </item>
+        <item>détenir </item>
+        <item>détériorer </item>
+        <item>déterminer </item>
+        <item>détester </item>
+        <item>détruire </item>
+        <item>devancer </item>
+        <item>développer </item>
+        <item>devenir </item>
+        <item>dévêtir </item>
+        <item>dévier </item>
+        <item>deviner </item>
+        <item>dévoiler </item>
+        <item>devoir </item>
+        <item>dévorer </item>
+        <item>dévouer </item>
+        <item>dévoyer </item>
+        <item>diagnostiquer </item>
+        <item>dialoguer </item>
+        <item>dicter </item>
+        <item>différencier </item>
+        <item>différer </item>
+        <item>diffuser </item>
+        <item>digérer </item>
+        <item>diluer </item>
+        <item>diminuer </item>
+        <item>dîner </item>
+        <item>dire </item>
+        <item>diriger </item>
+        <item>disconvenir </item>
+        <item>discourir </item>
+        <item>discuter </item>
+        <item>disjoindre </item>
+        <item>disparaître </item>
+        <item>dispenser </item>
+        <item>disperser </item>
+        <item>disposer </item>
+        <item>disputer </item>
+        <item>dissiper </item>
+        <item>dissoudre </item>
+        <item>distinguer </item>
+        <item>distraire </item>
+        <item>distribuer </item>
+        <item>diverger </item>
+        <item>divertir </item>
+        <item>diviser </item>
+        <item>divorcer </item>
+        <item>divulguer </item>
+        <item>doigter </item>
+        <item>doler </item>
+        <item>dominer </item>
+        <item>donner </item>
+        <item>doper </item>
+        <item>dorer </item>
+        <item>dorloter </item>
+        <item>dormir </item>
+        <item>doter </item>
+        <item>doubler </item>
+        <item>doucher </item>
+        <item>douer </item>
+        <item>douter </item>
+        <item>draguer </item>
+        <item>draper </item>
+        <item>dresser </item>
+        <item>duper </item>
+        <item>dupliquer </item>
+        <item>durcir </item>
+        <item>durer </item>
+    </string-array>
+
+    <string-array name="verbe_en_e">
+        <item>ébahir </item>
+        <item>ébaire </item>
+        <item>éberluer </item>
+        <item>éblouir </item>
+        <item>échanger </item>
+        <item>échapper </item>
+        <item>écher </item>
+        <item>échoir </item>
+        <item>échouer </item>
+        <item>éclabousser </item>
+        <item>éclaircir </item>
+        <item>éclairer </item>
+        <item>éclater </item>
+        <item>éclore </item>
+        <item>écoeirer </item>
+        <item>éconduire </item>
+        <item>écouler </item>
+        <item>écouter </item>
+        <item>écraser </item>
+        <item>écrier </item>
+        <item>écrire </item>
+        <item>éditer </item>
+        <item>éduquer </item>
+        <item>effacer </item>
+        <item>effectuer </item>
+        <item>effeurer </item>
+        <item>effondrer </item>
+        <item>efforcer </item>
+        <item>effrayer </item>
+        <item>égaler </item>
+        <item>égarer </item>
+        <item>égayer </item>
+        <item>égoutter </item>
+        <item>égrainer </item>
+        <item>égrener </item>
+        <item>éjaculer </item>
+        <item>élaborer</item>
+        <item>élaguer </item>
+        <item>élancer </item>
+        <item>élargir </item>
+        <item>élever </item>
+        <item>éliminer </item>
+        <item>élire </item>
+        <item>éloigner </item>
+        <item>émaner </item>
+        <item>emballer </item>
+        <item>embarquer </item>
+        <item>embarrasser </item>
+        <item>embatre </item>
+        <item>embaucher </item>
+        <item>embellir </item>
+        <item>embêter </item>
+        <item>emboire </item>
+        <item>embraser </item>
+        <item>embrasser </item>
+        <item>embrayer </item>
+        <item>émerger </item>
+        <item>emettre </item>
+        <item>émier </item>
+        <item>emmêler </item>
+        <item>emménager </item>
+        <item>emmener </item>
+        <item>émoudre </item>
+        <item>émouvoir </item>
+        <item>emparer </item>
+        <item>empêcher </item>
+        <item>empiéter </item>
+        <item>empirer </item>
+        <item>emplir </item>
+        <item>employer </item>
+        <item>emporter </item>
+        <item>empreindre </item>
+        <item>empresser </item>
+        <item>empruner</item>
+        <item>émuler </item>
+        <item>encaisser </item>
+        <item>enchaîner </item>
+        <item>enchanter </item>
+        <item>enchérir </item>
+        <item>enclore </item>
+        <item>encourager </item>
+        <item>encourir</item>
+        <item>endommager </item>
+        <item>endormir </item>
+        <item>enduire</item>
+        <item>endurer </item>
+        <item>énerver </item>
+        <item>enfermer</item>
+        <item>enfiler </item>
+        <item>enflammer </item>
+        <item>enfler</item>
+        <item>enfoncer </item>
+        <item>enfouir </item>
+        <item>enfreindre </item>
+        <item>enfuir </item>
+        <item>engager </item>
+        <item>engendrer </item>
+        <item>engloutir </item>
+        <item>engueuler </item>
+        <item>enivrer </item>
+        <item>enjoindre </item>
+        <item>enlacer </item>
+        <item>enlever </item>
+        <item>ennoyer </item>
+        <item>ennuyer </item>
+        <item>énoncer </item>
+        <item>enorgueillir </item>
+        <item>énouer </item>
+        <item>enquérir </item>
+        <item>enquêter </item>
+        <item>enrayer </item>
+        <item>enregistrer </item>
+        <item>enrhumer </item>
+        <item>enrichir </item>
+        <item>enseigner </item>
+        <item>ensevelir </item>
+        <item>ensorceler </item>
+        <item>entacher </item>
+        <item>entamer</item>
+        <item>entendre </item>
+        <item>enter </item>
+        <item>entériner </item>
+        <item>enterrer </item>
+        <item>enthousiasmer </item>
+        <item>entourer </item>
+        <item>entraîner </item>
+        <item>entreprendre </item>
+        <item>entrer </item>
+        <item>entretenir </item>
+        <item>entrevoir </item>
+        <item>entrouvrir </item>
+        <item>énucléer </item>
+        <item>énumérer </item>
+        <item>envahir </item>
+        <item>envelopper </item>
+        <item>envier </item>
+        <item>envisager </item>
+        <item>envoler </item>
+        <item>envoyer </item>
+        <item>épaissir </item>
+        <item>épandre </item>
+        <item>épanouir </item>
+        <item>épargner </item>
+        <item>épater </item>
+        <item>épeler </item>
+        <item>épier </item>
+        <item>épiner </item>
+        <item>éplucher </item>
+        <item>épouser </item>
+        <item>épousseter </item>
+        <item>éprendre </item>
+        <item>éprouver </item>
+        <item>épuiser </item>
+        <item>équiper </item>
+        <item>équivaloir </item>
+        <item>errer </item>
+        <item>escalader </item>
+        <item>espérer </item>
+        <item>essayer </item>
+        <item>essouffler </item>
+        <item>essuyer </item>
+        <item>estimer </item>
+        <item>établir </item>
+        <item>étaler </item>
+        <item>étayer </item>
+        <item>éteindre </item>
+        <item>étendre </item>
+        <item>éternuer </item>
+        <item>étinceler </item>
+        <item>étiqueter </item>
+        <item>étirer </item>
+        <item>étoffer </item>
+        <item>étonner </item>
+        <item>étouffer </item>
+        <item>étourdir </item>
+        <item>être </item>
+        <item>étrécir </item>
+        <item>étreindre </item>
+        <item>étrenner </item>
+        <item>effectuer </item>
+        <item>évacuer </item>
+        <item>évader </item>
+        <item>évaluer </item>
+        <item>évanouir </item>
+        <item>éveiller </item>
+        <item>éviter </item>
+        <item>évoluer </item>
+        <item>évoquer </item>
+        <item>exagérer </item>
+        <item>examiner </item>
+        <item>exaucer </item>
+        <item>excéder </item>
+        <item>exceller </item>
+        <item>exiter </item>
+        <item>exclamer </item>
+        <item>exclure </item>
+        <item>excuser </item>
+        <item>exécrer </item>
+        <item>exécuter </item>
+        <item>exempter </item>
+        <item>exercer </item>
+        <item>exiger </item>
+        <item>exister </item>
+        <item>expédier </item>
+        <item>expirer </item>
+        <item>expliquer </item>
+        <item>exploiter </item>
+        <item>explorer </item>
+        <item>exploser</item>
+        <item>exposer </item>
+        <item>exrimer </item>
+        <item>extaiser </item>
+        <item>extraire </item>
+    </string-array>
+
+    <string-array name="verbe_fgh">
+        <item>fabriquer </item>
+        <item>fâcher </item>
+        <item>faciliter </item>
+        <item>façonner </item>
+        <item>facturer </item>
+        <item>fader </item>
+        <item>faiblir </item>
+        <item>failler </item>
+        <item>faillir </item>
+        <item>faire </item>
+        <item>falloir </item>
+        <item>familiariser </item>
+        <item>faner </item>
+        <item>farcir </item>
+        <item>fasciner </item>
+        <item>fatiguer </item>
+        <item>fauter </item>
+        <item>favoriser </item>
+        <item>faxer </item>
+        <item>feindre </item>
+        <item>fêler </item>
+        <item>félicter</item>
+        <item>fendre </item>
+        <item>fermer </item>
+        <item>festoyer </item>
+        <item>fêter </item>
+        <item>feuilleter </item>
+        <item>fiancer </item>
+        <item>ficeler </item>
+        <item>ficher </item>
+        <item>fier </item>
+        <item>figer </item>
+        <item>figurer</item>
+        <item>filer </item>
+        <item>filmer </item>
+        <item>finaliser </item>
+        <item>finir </item>
+        <item>fixer </item>
+        <item>flamboyer </item>
+        <item>flâner </item>
+        <item>flatter </item>
+        <item>fléchir </item>
+        <item>fleurir </item>
+        <item>flûter </item>
+        <item>foirer </item>
+        <item>foncer </item>
+        <item>fonctionner </item>
+        <item>fonder </item>
+        <item>fondre </item>
+        <item>forcer </item>
+        <item>forer </item>
+        <item>forger </item>
+        <item>formater </item>
+        <item>former </item>
+        <item>formuler </item>
+        <item>foudroyer </item>
+        <item>fouetter </item>
+        <item>fouiller </item>
+        <item>fouir </item>
+        <item>fournir </item>
+        <item>fourvoyer </item>
+        <item>foutre </item>
+        <item>fraîchir </item>
+        <item>franchir </item>
+        <item>frapper </item>
+        <item>frayer </item>
+        <item>freiner </item>
+        <item>frémir </item>
+        <item>fréquenter </item>
+        <item>froisser </item>
+        <item>frôler </item>
+        <item>frotter </item>
+        <item>fuir </item>
+        <item>fumer </item>
+        <item>fureter </item>
+        <item>fuser </item>
+        <item>fusionner </item>
+        <item>gâcher </item>
+        <item>gager </item>
+        <item>gagber </item>
+        <item>galoper </item>
+        <item>garntir </item>
+        <item>garder </item>
+        <item>garer </item>
+        <item>garnir </item>
+        <item>gaspiller </item>
+        <item>gâter </item>
+        <item>gazer </item>
+        <item>geindre </item>
+        <item>geler </item>
+        <item>gémir </item>
+        <item>gêner </item>
+        <item>générer </item>
+        <item>gérer </item>
+        <item>gîter </item>
+        <item>glacer </item>
+        <item>glander </item>
+        <item>glisser </item>
+        <item>gonfler </item>
+        <item>gourer </item>
+        <item>goûter </item>
+        <item>grandir </item>
+        <item>grasseyer </item>
+        <item>gratter </item>
+        <item>graver </item>
+        <item>gravir </item>
+        <item>gréer </item>
+        <item>grever </item>
+        <item>gréver </item>
+        <item>grignoter</item>
+        <item>grimper </item>
+        <item>grogner </item>
+        <item>gronder </item>
+        <item>grossir </item>
+        <item>guérir </item>
+        <item>guetter </item>
+        <item>gueuler </item>
+        <item>guider </item>
+        <item>habiliter </item>
+        <item>habiller </item>
+        <item>habiter </item>
+        <item>habituer </item>
+        <item>habler </item>
+        <item>hacher </item>
+        <item>haîr </item>
+        <item>haler </item>
+        <item>hâler </item>
+        <item>haleter </item>
+        <item>halluciner </item>
+        <item>hanter </item>
+        <item>happer </item>
+        <item>harceler </item>
+        <item>hâter </item>
+        <item>hausser </item>
+        <item>haver </item>
+        <item>havir </item>
+        <item>héberger </item>
+        <item>héler </item>
+        <item>hennir </item>
+        <item>hériter </item>
+        <item>hésiter </item>
+        <item>heurter </item>
+        <item>homogénéiser </item>
+        <item>honnir </item>
+        <item>honorer </item>
+        <item>houer </item>
+        <item>huer </item>
+        <item>humer </item>
+        <item>humilier </item>
+        <item>hurler </item>
+    </string-array>
+
+    <string-array name="verbe_ijkl">
+        <item>identifier </item>
+        <item>ignorer </item>
+        <item>illuminer </item>
+        <item>illustrer </item>
+        <item>imager </item>
+        <item>imaginer </item>
+        <item>imiter </item>
+        <item>immiscer </item>
+        <item>impacter </item>
+        <item>impatienter </item>
+        <item>implanter </item>
+        <item>implémenter </item>
+        <item>impliquer </item>
+        <item>importer </item>
+        <item>importuner </item>
+        <item>imposer </item>
+        <item>imprégner </item>
+        <item>impressuinner </item>
+        <item>imprimer </item>
+        <item>inaugurer </item>
+        <item>inciter </item>
+        <item>icliner </item>
+        <item>inclure </item>
+        <item>incomber </item>
+        <item>indiquer </item>
+        <item>induire </item>
+        <item>influencer </item>
+        <item>influer </item>
+        <item>informer </item>
+        <item>inhiber </item>
+        <item>initier </item>
+        <item>inonder </item>
+        <item>inquiéter </item>
+        <item>inscrire </item>
+        <item>isérer </item>
+        <item>insinuer </item>
+        <item>insister </item>
+        <item>inspirer </item>
+        <item>installer </item>
+        <item>instruire </item>
+        <item>intégrer </item>
+        <item>intensifier </item>
+        <item>intergir </item>
+        <item>interdire </item>
+        <item>intéresser </item>
+        <item>interférer </item>
+        <item>interpeller </item>
+        <item>interpréter </item>
+        <item>interroger </item>
+        <item>interrrompre </item>
+        <item>intervenir </item>
+        <item>intervertir </item>
+        <item>intriguer </item>
+        <item>introduire </item>
+        <item>inventer </item>
+        <item>inverser </item>
+        <item>investiguer </item>
+        <item>interviewer </item>
+        <item>investir </item>
+        <item>inviter </item>
+        <item>ioder </item>
+        <item>irriter </item>
+        <item>isoler </item>
+        <item>jaillir </item>
+        <item>jalouser </item>
+        <item>japper </item>
+        <item>jaser </item>
+        <item>jaunir </item>
+        <item>jeter </item>
+        <item>jeûner </item>
+        <item>joindre </item>
+        <item>jongler </item>
+        <item>jouer </item>
+        <item>jouir </item>
+        <item>juger </item>
+        <item>jurer </item>
+        <item>justifier </item>
+        <item>juter </item>
+        <item>kiffer </item>
+        <item>koter </item>
+        <item>lacer</item>
+        <item>lâcher </item>
+        <item>lainer </item>
+        <item>laisser </item>
+        <item>lamenter </item>
+        <item>lamer </item>
+        <item>lancer </item>
+        <item>languir </item>
+        <item>laper </item>
+        <item>larguer </item>
+        <item>lasser </item>
+        <item>laver </item>
+        <item>lécher </item>
+        <item>léguer </item>
+        <item>léser </item>
+        <item>leurrer </item>
+        <item>lever </item>
+        <item>librérer </item>
+        <item>licérer </item>
+        <item>licencier </item>
+        <item>lier </item>
+        <item>limiter </item>
+        <item>lire </item>
+        <item>lister </item>
+        <item>livrer </item>
+        <item>loger </item>
+        <item>longer </item>
+        <item>lotir </item>
+        <item>louer </item>
+        <item>louper </item>
+        <item>louvoyer</item>
+        <item>lover </item>
+        <item>luire </item>
+        <item>luter </item>
+        <item>lutter </item>
+        <item>luxer </item>
+    </string-array>
+
+    <string-array name="verbe_mnop">
+        <item>mâcher </item>
+        <item>maigrir </item>
+        <item>maintenir </item>
+        <item>maîtriser </item>
+        <item>manager </item>
+        <item>mander </item>
+        <item>manger </item>
+        <item>manier </item>
+        <item>manifester </item>
+        <item>manipuler </item>
+        <item>manquer </item>
+        <item>maquiller </item>
+        <item>marcher </item>
+        <item>marier </item>
+        <item>marquer </item>
+        <item>marrer </item>
+        <item>marteler </item>
+        <item>masser </item>
+        <item>mater </item>
+        <item>mâter </item>
+        <item>maudire </item>
+        <item>maugréer </item>
+        <item>mécroire </item>
+        <item>médire </item>
+        <item>méditer </item>
+        <item>méfier </item>
+        <item>mélenger </item>
+        <item>mêler </item>
+        <item>menacer </item>
+        <item>ménager </item>
+        <item>mendier </item>
+        <item>mener </item>
+        <item>mentionner </item>
+        <item>mentir </item>
+        <item>méprendre </item>
+        <item>mériter </item>
+        <item>mesurer </item>
+        <item>métrer </item>
+        <item>mettre </item>
+        <item>meuler </item>
+        <item>meurtir </item>
+        <item>miauler </item>
+        <item>migrer </item>
+        <item>mijoter </item>
+        <item>mimer </item>
+        <item>miner </item>
+        <item>mincir </item>
+        <item>mirer </item>
+        <item>miser </item>
+        <item>modeler </item>
+        <item>modérer </item>
+        <item>modifier </item>
+        <item>moisir </item>
+        <item>mollir</item>
+        <item>monnayer </item>
+        <item>monter </item>
+        <item>montrer </item>
+        <item>moquer </item>
+        <item>mordre </item>
+        <item>morfondre </item>
+        <item>motiver </item>
+        <item>moucher </item>
+        <item>moudre </item>
+        <item>mouiller </item>
+        <item>mouler </item>
+        <item>mourir </item>
+        <item>mouver </item>
+        <item>mouvoir </item>
+        <item>muer </item>
+        <item>multiplier </item>
+        <item>munir </item>
+        <item>murer </item>
+        <item>mûrir </item>
+        <item>murmurer </item>
+        <item>muser </item>
+        <item>muter </item>
+        <item>nager </item>
+        <item>naître </item>
+        <item>narguer </item>
+        <item>narrer </item>
+        <item>naviguer </item>
+        <item>nécessiter </item>
+        <item>négliger </item>
+        <item>négocier </item>
+        <item>nettoyer </item>
+        <item>nier </item>
+        <item>niveler </item>
+        <item>noircir </item>
+        <item>nominer </item>
+        <item>nommer </item>
+        <item>noter </item>
+        <item>notifier </item>
+        <item>nouer </item>
+        <item>nourrir </item>
+        <item>noyer </item>
+        <item>nuer </item>
+        <item>nuire </item>
+        <item>obéir </item>
+        <item>obliger </item>
+        <item>obscurcir </item>
+        <item>obséder </item>
+        <item>observer </item>
+        <item>obtempérer </item>
+        <item>obtenir </item>
+        <item>occasionner </item>
+        <item>occire </item>
+        <item>occlure </item>
+        <item>occuper </item>
+        <item>ocrer </item>
+        <item>octroyer </item>
+        <item>oeuvrer </item>
+        <item>offenser </item>
+        <item>officier </item>
+        <item>offrir </item>
+        <item>oindre </item>
+        <item>omettre </item>
+        <item>opérer </item>
+        <item>opposer </item>
+        <item>opter </item>
+        <item>ordonner </item>
+        <item>organiser </item>
+        <item>orienter </item>
+        <item>orner </item>
+        <item>osciller </item>
+        <item>oser </item>
+        <item>ôter </item>
+        <item>oublier </item>
+        <item>ouîr</item>
+        <item>ourdir </item>
+        <item>ouvrer </item>
+        <item>ouvrir </item>
+        <item>pagayer </item>
+        <item>pager </item>
+        <item>pâlir </item>
+        <item>pallier </item>
+        <item>paner </item>
+        <item>panner </item>
+        <item>panser </item>
+        <item>paraître </item>
+        <item>paramétre </item>
+        <item>parcourir </item>
+        <item>pardonner </item>
+        <item>parer </item>
+        <item>parier </item>
+        <item>parler </item>
+        <item>parrainer </item>
+        <item>partager </item>
+        <item>participer </item>
+        <item>partir </item>
+        <item>parvenir </item>
+        <item>passer </item>
+        <item>passinner </item>
+        <item>pâter </item>
+        <item>patienter </item>
+        <item>patiner </item>
+        <item>pâtir </item>
+        <item>pauser </item>
+        <item>paver </item>
+        <item>payer </item>
+        <item>peaufiner </item>
+        <item>pêcher </item>
+        <item>pécher </item>
+        <item>pédaler </item>
+        <item>peigner </item>
+        <item>peindre </item>
+        <item>peiner </item>
+        <item>peinture </item>
+        <item>peler </item>
+        <item>pelleter </item>
+        <item>pencher </item>
+        <item>pendre </item>
+        <item>pénétrer </item>
+        <item>penser </item>
+        <item>percer </item>
+        <item>percevoir </item>
+        <item>perdre </item>
+        <item>perdure </item>
+        <item>pérenniser </item>
+        <item>périr </item>
+        <item>permettre </item>
+        <item>persévérer </item>
+        <item>persister </item>
+        <item>persuader </item>
+        <item>pertuber </item>
+        <item>peser </item>
+        <item>pétrir </item>
+        <item>photographier </item>
+        <item>piéger </item>
+        <item>pifer </item>
+        <item>pincer </item>
+        <item>piper </item>
+        <item>piquer</item>
+        <item>placer </item>
+        <item>plaider </item>
+        <item>plaindre </item>
+        <item>plaire </item>
+        <item>plaisanter </item>
+        <item>planer </item>
+        <item>planfier </item>
+        <item>planter </item>
+        <item>pleurer </item>
+        <item>pleuvoir </item>
+        <item>plier </item>
+        <item>plonger </item>
+        <item>ployer </item>
+        <item>poiler </item>
+        <item>pointer </item>
+        <item>polir </item>
+        <item>polluer </item>
+        <item>pondre </item>
+        <item>porter </item>
+        <item>poser </item>
+        <item>positionner </item>
+        <item>posséder </item>
+        <item>poster </item>
+        <item>postuler </item>
+        <item>poter </item>
+        <item>pourrir </item>
+        <item>poursuivre </item>
+        <item>pourvoir </item>
+        <item>pousser </item>
+        <item>pouvoir </item>
+        <item>pratiquer </item>
+        <item>précéder </item>
+        <item>prêcher </item>
+        <item>préciter </item>
+        <item>préciser </item>
+        <item>préconiser </item>
+        <item>prédire </item>
+        <item>préétablir </item>
+        <item>préférer </item>
+        <item>prendre </item>
+        <item>prénommer </item>
+        <item>préoccuper </item>
+        <item>préparer </item>
+        <item>prescrire </item>
+        <item>présenter </item>
+        <item>préserver </item>
+        <item>pressentir </item>
+        <item>presser </item>
+        <item>prétendre </item>
+        <item>prêter </item>
+        <item>prévaloir </item>
+        <item>prévenir </item>
+        <item>prévoir </item>
+        <item>prier </item>
+        <item>primer </item>
+        <item>priser </item>
+        <item>priver </item>
+        <item>privilégier </item>
+        <item>procéder </item>
+        <item>procurer </item>
+        <item>prodiguer </item>
+        <item>produire </item>
+        <item>profiter </item>
+        <item>programmer </item>
+        <item>progresser </item>
+        <item>projeter</item>
+        <item>prolonger </item>
+        <item>promener </item>
+        <item>promettre </item>
+        <item>promouvoir </item>
+        <item>prôner </item>
+        <item>prononcer </item>
+        <item>proposer </item>
+        <item>proscrire </item>
+        <item>protéger </item>
+        <item>prouver </item>
+        <item>provenir </item>
+        <item>provoquer </item>
+        <item>publier </item>
+        <item>puer </item>
+        <item>puiser </item>
+        <item>pulluler </item>
+        <item>punir </item>
+    </string-array>
+
+    <string-array name="verbe_qp">
+        <item>qualifier </item>
+        <item>quémander </item>
+        <item>questionner </item>
+        <item>quêter </item>
+        <item>quitter </item>
+        <item>rabattre </item>
+        <item>raccourcir </item>
+        <item>raccrocher </item>
+        <item>racheter </item>
+        <item>raconter </item>
+        <item>raffoler </item>
+        <item>rafraîchir </item>
+        <item>rager </item>
+        <item>raidir </item>
+        <item>railler </item>
+        <item>raisonner </item>
+        <item>rajeunir </item>
+        <item>rajouter </item>
+        <item>ralentir</item>
+        <item>râler </item>
+        <item>rallier </item>
+        <item>ramasser </item>
+        <item>ramener </item>
+        <item>ramer </item>
+        <item>ramollir </item>
+        <item>ranger </item>
+        <item>rapatrier </item>
+        <item>rapetisser </item>
+        <item>rappeler </item>
+        <item>rapporter </item>
+        <item>rapprocher </item>
+        <item>raser </item>
+        <item>rassasier </item>
+        <item>rassembler </item>
+        <item>rasseoir </item>
+        <item>pallier </item>
+        <item>rassurer </item>
+        <item>rater </item>
+        <item>rattacher </item>
+        <item>rattraper </item>
+        <item>ravager </item>
+        <item>ravir </item>
+        <item>rayer </item>
+        <item>rayonner </item>
+        <item>réagit </item>
+        <item>réaliser </item>
+        <item>réapparître </item>
+        <item>réapprendre </item>
+        <item>rebondir </item>
+        <item>recéler </item>
+        <item>receler </item>
+        <item>recenser </item>
+        <item>réceptionner </item>
+        <item>recevoir </item>
+        <item>réchauffer </item>
+        <item>rechercher </item>
+        <item>réciiter </item>
+        <item>réclamer </item>
+        <item>récolter </item>
+        <item>recommander </item>
+        <item>recommencer </item>
+        <item>récompenser </item>
+        <item>réconcilier </item>
+        <item>reconduire </item>
+        <item>réconforter </item>
+        <item>reconnaître </item>
+        <item>reconquérir </item>
+        <item>reconstruire </item>
+        <item>recontacter </item>
+        <item>recopier </item>
+        <item>recoudre </item>
+        <item>recourir </item>
+        <item>recouvrer </item>
+        <item>recréer </item>
+        <item>recréer </item>
+        <item>récréer </item>
+        <item>récrire </item>
+        <item>recruter </item>
+        <item>rectifier </item>
+        <item>recueillir </item>
+        <item>reculer </item>
+        <item>récupérer </item>
+        <item>redécouvrir </item>
+        <item>redémarrer </item>
+        <item>redescendre </item>
+        <item>redevenir </item>
+        <item>redevoir </item>
+        <item>rédiger </item>
+        <item>redire </item>
+        <item>redonner </item>
+        <item>réduire </item>
+        <item>réécrire </item>
+        <item>réélire </item>
+        <item>réer </item>
+        <item>réessayer </item>
+        <item>refaire </item>
+        <item>référencer </item>
+        <item>référer </item>
+        <item>refermer </item>
+        <item>réfléchir </item>
+        <item>refléter </item>
+        <item>refroidir </item>
+        <item>réfugier </item>
+        <item>refuser </item>
+        <item>régaler </item>
+        <item>regarder </item>
+        <item>régir </item>
+        <item>réglementer </item>
+        <item>régler </item>
+        <item>régner </item>
+        <item>regretter </item>
+        <item>regrouper </item>
+        <item>réinscrire </item>
+        <item>réitérer </item>
+        <item>rejeter </item>
+        <item>rejeter </item>
+        <item>rejoindre </item>
+        <item>réjouir </item>
+        <item>relâcher </item>
+        <item>relancer </item>
+        <item>relater </item>
+        <item>relayer </item>
+        <item>relever</item>
+        <item>relier </item>
+        <item>relire </item>
+        <item>relire </item>
+        <item>remarquer </item>
+        <item>rembourser </item>
+        <item>remédier </item>
+        <item>remédier </item>
+        <item>remémorer </item>
+        <item>remercier </item>
+        <item>remettre </item>
+        <item>remonter </item>
+        <item>remplacer </item>
+        <item>remplir </item>
+        <item>remporter </item>
+        <item>remuer </item>
+        <item>rémunérer </item>
+        <item>renaître </item>
+        <item>renchérir </item>
+        <item>rencontrer </item>
+        <item>redormir </item>
+        <item>rendre </item>
+        <item>renforcer </item>
+        <item>renier </item>
+        <item>renommer </item>
+        <item>renoncer </item>
+        <item>renouveler </item>
+        <item>renseigner </item>
+        <item>renter </item>
+        <item>rentrer </item>
+        <item>pallier</item>
+        <item>renverser </item>
+        <item>renvoyer </item>
+        <item>repaître </item>
+        <item>répandre </item>
+        <item>reparaître </item>
+        <item>réparer </item>
+        <item>reparler </item>
+        <item>repartir </item>
+        <item>répartir </item>
+        <item>repasser </item>
+        <item>repeindre </item>
+        <item>rependre </item>
+        <item>repentir </item>
+        <item>repérer </item>
+        <item>répertorier </item>
+        <item>répéter </item>
+        <item>pallier </item>
+        <item>replier </item>
+        <item>répondre </item>
+        <item>reporter </item>
+        <item>reposer </item>
+        <item>repousser </item>
+        <item>reprendre </item>
+        <item>représenter </item>
+        <item>reprocher </item>
+        <item>reproduire </item>
+        <item>requérir </item>
+        <item>réserver </item>
+        <item>résider </item>
+        <item>résilier </item>
+        <item>résister </item>
+        <item>résonner </item>
+        <item>résoudre </item>
+        <item>respecter </item>
+        <item>respirer </item>
+        <item>resplendir </item>
+        <item>ressaisir </item>
+        <item>ressayer </item>
+        <item>ressembler</item>
+        <item>ressentir </item>
+        <item>resserrer </item>
+        <item>resservir </item>
+        <item>ressortir </item>
+        <item>ressusciter </item>
+        <item>restaurer </item>
+        <item>rester </item>
+        <item>restituer </item>
+        <item>restreindre </item>
+        <item>résulter </item>
+        <item>résumer </item>
+        <item>rétablir </item>
+        <item>retarder </item>
+        <item>retenir </item>
+        <item>retentir </item>
+        <item>retirer </item>
+        <item>retomber </item>
+        <item>retourner</item>
+        <item>retranscrire </item>
+        <item>retransmettre </item>
+        <item>rétrécir </item>
+        <item>retrouver </item>
+        <item>réunir </item>
+        <item>réussir </item>
+        <item>rêvasser </item>
+        <item>réveiller </item>
+        <item>révéler </item>
+        <item>revendiquer </item>
+        <item>revendre </item>
+        <item>revenir </item>
+        <item>rêver </item>
+        <item>revêtir </item>
+        <item>réviser </item>
+        <item>revivre </item>
+        <item>revoir </item>
+        <item>revouloir </item>
+        <item>rigoler </item>
+        <item>rimer </item>
+        <item>rincer </item>
+        <item>rire </item>
+        <item>risquer </item>
+        <item>rôder </item>
+        <item>roder </item>
+        <item>rompre </item>
+        <item>ronfler </item>
+        <item>ronger </item>
+        <item>ronronner </item>
+        <item>roquer </item>
+        <item>roser </item>
+        <item>rôtir </item>
+        <item>rougir </item>
+        <item>rouler </item>
+        <item>rouspéter </item>
+        <item>rouvrir </item>
+        <item>ruer </item>
+        <item>rugir </item>
+        <item>ruisseler </item>
+
+    </string-array>
+
+    <string-array name="verbe_en_stuvz">
+
+        <item>sacrifier</item>
+        <item>saigner</item>
+        <item>saisir</item>
+        <item>saler</item>
+        <item>salir</item>
+        <item>saloper</item>
+        <item>saluer</item>
+        <item>sangloter</item>
+        <item>saouler</item>
+        <item>saper</item>
+        <item>satisfaire</item>
+        <item>saurer</item>
+        <item>sauter</item>
+        <item>sauvegarder</item>
+        <item>sauver</item>
+        <item>savoir</item>
+        <item>savonner</item>
+        <item>savourer</item>
+        <item>scanner</item>
+        <item>sceller</item>
+        <item>scier</item>
+        <item>scinder</item>
+        <item>scruter</item>
+        <item>sécher</item>
+        <item>secouer</item>
+        <item>secourir</item>
+        <item>séduire</item>
+        <item>séjourner</item>
+        <item>sélectionner</item>
+        <item>seller</item>
+        <item>sembler</item>
+        <item>semer</item>
+        <item>sentir</item>
+        <item>séparer</item>
+        <item>serrer</item>
+        <item>sertir</item>
+        <item>servir</item>
+        <item>sévir</item>
+        <item>sevrer</item>
+        <item>siéger</item>
+        <item>siffler</item>
+        <item>signaler</item>
+        <item>signer</item>
+        <item>signifier</item>
+        <item>simplifier</item>
+        <item>siroter</item>
+        <item>situer</item>
+        <item>skier</item>
+        <item>soigner</item>
+        <item>solliciter</item>
+        <item>solutionner</item>
+        <item>sommeiller</item>
+        <item>sommer</item>
+        <item>songer</item>
+        <item>sonner</item>
+        <item>sortir</item>
+        <item>soucier</item>
+        <item>souder</item>
+        <item>soudoyer</item>
+        <item>souffler</item>
+        <item>souffrir</item>
+        <item>souhaiter</item>
+        <item>soulager</item>
+        <item>soûler</item>
+        <item>soulever</item>
+        <item>souligner</item>
+        <item>soumettre</item>
+        <item>soupçonner</item>
+        <item>souper</item>
+        <item>soupirer</item>
+        <item>sourire</item>
+        <item>sous-entendre</item>
+        <item>sous-tendre</item>
+        <item>souscrire</item>
+        <item>soustraire</item>
+        <item>soutenir</item>
+        <item>souvenir</item>
+        <item>spécifier</item>
+        <item>statuer</item>
+        <item>stipuler</item>
+        <item>stocker</item>
+        <item>stopper</item>
+        <item>stresser</item>
+        <item>stupéfier</item>
+        <item>subir</item>
+        <item>subodorer</item>
+        <item>subsister</item>
+        <item>substituer</item>
+        <item>subvenir</item>
+        <item>succéder</item>
+        <item>succomber</item>
+        <item>sucer</item>
+        <item>suer</item>
+        <item>suffire</item>
+        <item>suffoquer</item>
+        <item>suggérer</item>
+        <item>suicider</item>
+        <item>suivre</item>
+        <item>suppléer</item>
+        <item>supplier</item>
+        <item>supporter</item>
+        <item>supposer</item>
+        <item>supprimer</item>
+        <item>supputer</item>
+        <item>surfaire</item>
+        <item>surfer</item>
+        <item>surgir</item>
+        <item>surprendre</item>
+        <item>sursauter</item>
+        <item>surseoir</item>
+        <item>surveiller</item>
+        <item>survenir</item>
+        <item>survivre</item>
+        <item>susciter</item>
+        <item>suspendre</item>
+        <item>sustenter</item>
+        <item>susurrer</item>
+        <item>tacher</item>
+        <item>tâcher</item>
+        <item>tailler</item>
+        <item>taire</item>
+        <item>taler</item>
+        <item>tanner</item>
+        <item>taper</item>
+        <item>tapir</item>
+        <item>taquiner</item>
+        <item>tarder</item>
+        <item>tarer</item>
+        <item>tarir</item>
+        <item>tasser</item>
+        <item>tâter</item>
+        <item>tatouer</item>
+        <item>teindre</item>
+        <item>teinter</item>
+        <item>télécharger</item>
+        <item>téléphoner</item>
+        <item>témoigner</item>
+        <item>tendre</item>
+        <item>tenir</item>
+        <item>tenter</item>
+        <item>terminer</item>
+        <item>ternir</item>
+        <item>tester</item>
+        <item>têter</item>
+        <item>téter</item>
+        <item>tiédir</item>
+        <item>tinter</item>
+        <item>tracasser</item>
+        <item>tracer</item>
+        <item>toiler</item>
+        <item>toiser</item>
+        <item>tolérer</item>
+        <item>tomber</item>
+        <item>tomer</item>
+        <item>tondre</item>
+        <item>toquer</item>
+        <item>tordre</item>
+        <item>toucher</item>
+        <item>tourner</item>
+        <item>tournoyer</item>
+        <item>tousser</item>
+        <item>tracasser</item>
+        <item>tracer</item>
+        <item>traduire</item>
+        <item>trahir</item>
+        <item>traîner</item>
+        <item>traire</item>
+        <item>traiter</item>
+        <item>tramer</item>
+        <item>transcrire</item>
+        <item>transférer</item>
+        <item>transformer</item>
+        <item>transmettre</item>
+        <item>transparapitre</item>
+        <item>transporter</item>
+        <item>travailler</item>
+        <item>traverser</item>
+        <item>trembler</item>
+        <item>tremper</item>
+        <item>tressaillir</item>
+        <item>tricher</item>
+        <item>tricoter</item>
+        <item>trier</item>
+        <item>tripoter</item>
+        <item>tromper</item>
+        <item>trotter</item>
+        <item>troubler</item>
+        <item>trouer</item>
+        <item>troyver</item>
+        <item>tuer</item>
+        <item>tuiler</item>
+        <item>tutoyer</item>
+        <item>unier</item>
+        <item>uriner</item>
+        <item>user</item>
+        <item>utiliser</item>
+        <item>vagir</item>
+        <item>vaguer</item>
+        <item>vaincre</item>
+        <item>valider</item>
+        <item>valoir</item>
+        <item>vanner</item>
+        <item>vanter</item>
+        <item>vaquer</item>
+        <item>varier</item>
+        <item>veiller</item>
+        <item>vénérer</item>
+        <item>venger</item>
+        <item>venir</item>
+        <item>verdir</item>
+        <item>vérifier</item>
+        <item>vernir</item>
+        <item>verrouiller</item>
+        <item>verser</item>
+        <item>vêtir</item>
+        <item>vexer</item>
+        <item>vider</item>
+        <item>vieillir</item>
+        <item>viner</item>
+        <item>violer</item>
+        <item>virer</item>
+        <item>viser</item>
+        <item>visionner</item>
+        <item>visiter</item>
+        <item>visser</item>
+        <item>vivre</item>
+        <item>voguer</item>
+        <item>voiler</item>
+        <item>voir</item>
+        <item>voler</item>
+        <item>voleter</item>
+        <item>vomir</item>
+        <item>voter</item>
+        <item>vouer</item>
+        <item>vouloir</item>
+        <item>voûter</item>
+        <item>vouvoyer</item>
+        <item>voyager</item>
+        <item>vendre</item>
+        <item>zapper</item>
+        <item>zézayer</item>
+
+    </string-array>
+
+
+</resources>

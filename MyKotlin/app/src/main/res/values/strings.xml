@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Kotlin</string>
+    <string name="toast">Toast</string>
+    <string name="main">Main2</string>
+    <string name="modul">%</string>
+    <string name="div">*</string>
+    <string name="sub">-</string>
+    <string name="number_1">Number 1</string>
+    <string name="add">+</string>
+    <string name="number_2">Number 2</string>
+    <string name="title">Title</string>
+    <string name="line">==========</string>
+    <string name="txtbody">txtBody</string>
+</resources>

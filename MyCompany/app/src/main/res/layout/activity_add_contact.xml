@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context="com.drmas.issam.mycompany.AddContact">
+
+    <ImageButton
+        android:id="@+id/pickImg"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:onClick="openGallerie"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/btn_style"
+        android:scaleType="fitCenter" android:contentDescription="@string/img" />
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_contact_name"/>
+
+    <EditText
+        android:inputType="phone"
+        android:id="@+id/editPHone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_phone_number"/>
+
+    <Button
+        android:id="@+id/btnConfirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_style"
+        android:text="@string/confirm_add"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"/>
+</LinearLayout>

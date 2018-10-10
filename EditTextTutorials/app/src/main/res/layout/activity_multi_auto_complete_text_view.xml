@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MultiAutoCompleteTextViewActivity">
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/mActv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Select countries"
+        android:completionThreshold="1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show input"
+        android:onClick="showInput"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

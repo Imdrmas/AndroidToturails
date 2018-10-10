@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_blue"
+    tools:context=".ProfileFragment">
+
+  <LinearLayout
+      android:gravity="center_horizontal"
+      android:background="#FFF"
+      android:layout_margin="15dp"
+      android:orientation="vertical"
+      android:layout_width="wrap_content"
+      android:layout_height="match_parent">
+
+
+      <ProgressBar
+          android:id="@+id/progressDeleted"
+          style="?android:attr/progressBarStyleHorizontal"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="8dp"
+          android:indeterminate="true"
+          android:visibility="invisible" />
+      <!-- TODO: Update blank fragment layout -->
+
+      <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+          android:id="@+id/userImageProfile"
+          android:layout_width="96dp"
+          android:layout_height="96dp"
+          android:layout_marginTop="10dp"
+          android:src="@drawable/user_avatar"
+          app:civ_border_color="#FF000000"
+          app:civ_border_width="2dp" />
+
+      <!-- TODO: Update blank fragment layout -->
+      <LinearLayout
+          android:layout_marginLeft="10dp"
+          android:layout_marginRight="10dp"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="20dp"
+          android:layout_marginTop="10dp"
+          android:orientation="vertical"
+          android:paddingBottom="20dp">
+
+
+          <TextView
+              android:textColor="#34495e"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="20dp"
+              android:gravity="center"
+              android:text="@string/my_profile"
+              android:textSize="32sp" />
+
+          <View
+              android:layout_width="match_parent"
+              android:layout_height="1dp"
+              android:layout_marginTop="2dp"
+              android:background="@color/colorAccent" />
+
+          <TextView
+              android:id="@+id/firstUserProfile"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:layout_marginTop="10dp"
+              android:gravity="center"
+              android:text="@string/app_name"
+              android:textSize="28sp" />
+
+          <View
+              android:layout_width="match_parent"
+              android:layout_height="1dp"
+              android:layout_marginTop="2dp"
+              android:background="@color/colorAccent" />
+
+          <TextView
+              android:id="@+id/lastNameUserProfile"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:gravity="center"
+              android:text="@string/app_name"
+              android:textSize="28sp" />
+
+          <View
+              android:layout_width="match_parent"
+              android:layout_height="1dp"
+              android:layout_marginTop="2dp"
+              android:background="@color/colorAccent" />
+
+          <TextView
+              android:id="@+id/emailUserProfile"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:gravity="center"
+              android:text="@string/app_name"
+              android:textSize="28sp" />
+
+          <View
+              android:layout_width="match_parent"
+              android:layout_height="1dp"
+              android:layout_marginTop="2dp"
+              android:background="@color/colorAccent" />
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:background="@color/colorPrimary"
+          android:padding="10dp"
+          android:layout_margin="10dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal">
+
+          <Button
+              android:layout_marginRight="5dp"
+              android:layout_marginLeft="5dp"
+              android:layout_weight="1"
+              style="?android:attr/buttonBarButtonStyle"
+              android:id="@+id/btnSetupClicked"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/btn_style"
+              android:hint="@string/home_page"
+              android:textColorHint="@color/colorWhite" />
+
+          <Button
+              android:layout_marginRight="5dp"
+              android:layout_marginLeft="5dp"
+              android:layout_weight="1"
+              style="?android:attr/buttonBarButtonStyle"
+              android:id="@+id/btnDeleteClicked"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@drawable/btn_style"
+              android:hint="@string/delete_account"
+              android:textColorHint="@color/colorWhite" />
+
+      </LinearLayout>
+
+  </LinearLayout>
+
+
+</LinearLayout>

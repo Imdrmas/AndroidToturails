@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Share Food</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="Share_Food">Share Food</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="Enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login_to_account">Login </string>
+    <string name="create_account">Create account</string>
+    <string name="sign_with_google">sign with google</string>
+    <string name="facebook_app_id">421721428258199</string>
+    <string name="fb_login_protocol_scheme">fb421721428258199</string>
+    <string name="reset">Reset</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="save_account_settings">Save account settings</string>
+    <string name="enter_name">Enter_name</string>
+    <string name="Your_name_appear_when_you_add_a_post">Your name appear when you add a post  </string>
+    <string name="create_new">Create New</string>
+    <string name="account">Account</string>
+    <string name="add_new_post">Add new post</string>
+    <string name="add_description">Add description</string>
+    <string name="img_new_post">img new post</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descrption">Descrption</string>
+    <string name="image_post">Image Post</string>
+    <string name="post_date">Post date</string>
+    <string name="username">Username</string>
+    <string name="avatar">Avatar</string>
+    <string name="imglike">imagelike</string>
+    <string name="_0like">0 Like</string>
+    <string name="not_now">Not Now</string>
+    <string name="edit_profile_or">Edit profile or</string>
+    <string name="_0comment">0 Comment</string>
+    <string name="_0share">0 Share</string>
+    <string name="accountNotificationIcon">account Notification Icon</string>
+    <string name="notificationIcon">notification Icon</string>
+    <string name="homeNotificationIcon">homeNotificationIcon</string>
+    <string name="string_homenotificationicon">home Notification Icon</string>
+    <string name="coment_close">Comment Close</string>
+    <string name="comments">Comments</string>
+    <string name="your_comment_hare">Your Comment Hare</string>
+    <string name="addcomment">Add Comment</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+    <string name="like">Like</string>
+    <string name="enter_your_name">enter your name</string>
+
+
+</resources>
+
+

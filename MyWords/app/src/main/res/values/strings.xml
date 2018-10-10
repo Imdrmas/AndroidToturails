@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Words</string>
+    <string name="_14">14</string>
+    <string name="plus">+</string>
+    <string name="mins">-</string>
+    <string name="bold">Bold</string>
+    <string name="line">Line</string>
+    <string name="size">Size</string>
+    <string name="font">Font:</string>
+    <string name="almignment">Almignment</string>
+    <string name="lift_to_right">Lift To Right</string>
+    <string name="right_to_lift">Right To Lift</string>
+    <string name="fileName">FileName</string>
+    <string name="file_name">File Name</string>
+    <string name="news">New</string>
+    <string name="get_file">Get File</string>
+    <string name="save">Save</string>
+    <string name="color">Color:</string>
+    <string name="write_here">Write Here</string>
+
+
+</resources>

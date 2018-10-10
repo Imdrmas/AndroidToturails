@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="_0">0</string>
+    <string name="get_birth_date">Get Birth Date</string>
+    <string name="number2">Number2:</string>
+    <string name="number1">Number1:</string>
+    <string name="mod">%</string>
+    <string name="div">*</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="zero">0</string>
+    <string name="multi">/</string>
+
+    <string name="home_page">Home Page</string>
+    <string name="calc_your_birthday">Calc your birthday</string>
+    <string name="calculor">Calculator</string>
+    <string name="enter_your_age">Enter your age</string>
+
+    <string name="run">Run</string>
+    <string name="new_html">New Html</string>
+    <string name="back">Back</string>
+    <string name="editor">Editor Html</string>
+
+    <string name="call">Call</string>
+    <string name="_0758350768">Enter number </string>
+    <string name="no_name_select">No name select</string>
+    <string name="open_message">Open To Send Message</string>
+    <string name="send_sms_now">Send SMS Now</string>
+    <string name="write_your_message_here">Write Your Message here</string>
+    <string name="open_contacts">Open Contacts</string>
+    <string name="get_contacts">Get Contacts</string>
+    <string name="get_some_contacts">Get Some Contacts</string>
+
+
+</resources>

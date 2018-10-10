@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:onClick="showToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show toast" />
+
+    <Button
+        android:onClick="customToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Custom toast" />
+
+    <Button
+        android:onClick="styleableToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Styleable toast" />
+
+    <Button
+        android:id="@+id/button_error"
+        android:onClick="showToasts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show error toast" />
+
+    <Button
+        android:id="@+id/button_success"
+        android:onClick="showToasts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show success toast" />
+
+    <Button
+        android:id="@+id/button_info"
+        android:onClick="showToasts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show info toast" />
+
+    <Button
+        android:id="@+id/button_warning"
+        android:onClick="showToasts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show warning toast" />
+
+    <Button
+        android:id="@+id/button_normal"
+        android:onClick="showToasts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show normal toast with an icon" />
+</LinearLayout>

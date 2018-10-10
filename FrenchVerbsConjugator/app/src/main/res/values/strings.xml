@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">French Verb Conjugation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="facebook">Facebook</string>
+    <string name="email">Email</string>
+    <string name="more_apps">More Apps</string>
+    <string name="search_of_verb_here">Search a verb here ...</string>
+
+    <string name="general">Général</string>
+    <string name="_1_me_groupe">1ème Groupe</string>
+    <string name="_2_me_groupe">2ème Groupe</string>
+    <string name="_3_me_groupe">3ème Groupe</string>
+
+    <string name="regle">Règles</string>
+    <string name="participe">Participe</string>
+    <string name="groupe">Groupe</string>
+    <string name="etre_avoir">être/avoir</string>
+    <string name="question">Question</string>
+    <string name="_100">0</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="exercises_1er_groupe">Exercises 1er Groupe</string>
+    <string name="exercises_2er_groupe">Exercises 2ème Groupe</string>
+    <string name="exercises_3er_groupe">Exercises 3ème Groupe</string>
+    <string name="exercises_etre_avoire">Exercises être et Avoir</string>
+    <string name="exercises_groupe">Exercises Groupe de Verbes </string>
+    <string name="exercises_participe">Exercises Participe Passé</string>
+    <string name="votre_r_sultat_est">Votre résultat est :</string>
+    <string name="cancel">Cancel</string>
+    <string name="continues">Continue </string>
+    <string name="try_again">Try</string>
+    <string name="next">Next</string>
+    <string name="top_score">Top Score</string>
+
+</resources>

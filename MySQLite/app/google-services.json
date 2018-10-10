@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881642554909",
+    "firebase_url": "https://mysqlite-cc360.firebaseio.com",
+    "project_id": "mysqlite-cc360",
+    "storage_bucket": "mysqlite-cc360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881642554909:android:453d9137c15ed713",
+        "android_client_info": {
+          "package_name": "com.issam.drmas.mysqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881642554909-i8unn17mgk705d7db00lu5r9n71efnpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issam.drmas.mysqlite",
+            "certificate_hash": "536e9fb53039c6b5947793e0e3dfe74e36d08129"
+          }
+        },
+        {
+          "client_id": "881642554909-0nf6fqbp19h8v4of5kp1ru35jm794sd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB69QS0fva7jNwZWP04z4pCDKEgbDeWhCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881642554909-0nf6fqbp19h8v4of5kp1ru35jm794sd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
